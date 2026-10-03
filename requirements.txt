@@ -1,0 +1,13 @@
+# Core data-science stack
+pandas>=2.0,<3.0
+numpy>=1.22
+scipy>=1.8
+matplotlib>=3.5,<3.12
+seaborn>=0.12
+
+# Automated profiling (maintained successor of ydata-profiling)
+fg-data-profiling>=4.20
+
+# Jupyter
+jupyter
+ipykernel
